@@ -9,7 +9,7 @@ baseurl: "/docs" # the subpath of your site, e.g. /blog/
 url: "jan.groeschel.com.au" # the base hostname & protocol for your site
 
 # User setting
-owner:
+owner: Jan Groeschel
 email:
 facebook_username:
 twitter_username:
