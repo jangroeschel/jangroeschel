@@ -2,4 +2,4 @@ Services section is based on skills.html
 Authorship section is based on blogs.html
 Contacts section is based on extra.html
 docs\assets\js\main.js contains authorship links posts
-docs\assets\js\projects.js contains project links posts
+docs\assets\js\projects.js contains project links posts, but the headings/categories also need to be specified in projects.html
