@@ -17,7 +17,7 @@ let render_projects = (slug) => {
             demo: 'https://mporter.co',
             technologies: ['Flask', 'Celery', 'Python'],
             description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
-            categories: ['featured', 'webdev']
+            categories: ['featured', 'category1']
         },
         {
             image: 'assets/images/mobile-landscape.jpg',
@@ -26,7 +26,7 @@ let render_projects = (slug) => {
             demo: 'http://wall-e-jekyll.github.io/',
             technologies: ['Semantic UI', 'Jekyll'],
             description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
-            categories: ['featured', 'webdev']
+            categories: ['featured', 'category2']
         },
         {
             image: 'assets/images/collage.jpg',
@@ -35,7 +35,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Android', 'OpenCV'],
             description: "Attendance marking tool that uses face recognition for marking attendance and firebase for tracking and analytics.",
-            categories: ['featured', 'native']
+            categories: ['featured', 'category3']
         },
         {
             image: 'assets/images/mpw.jpg',
@@ -44,7 +44,7 @@ let render_projects = (slug) => {
             demo: 'https://www.nagekar.com/mpw',
             technologies: ['Semantic UI', 'CSS3'],
             description: "Master Password is an ingenious password solution that makes your passwords truly impossible to lose.",
-            categories: ['featured', 'security']
+            categories: ['featured', 'category4']
         },
         {
             image: 'assets/images/social-share-count.jpeg',
@@ -53,7 +53,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Python'],
             description: "Ever wondered how many times a URL has been shared on popular social networks?",
-            categories: ['native']
+            categories: ['category1']
         },
         {
             image: 'assets/images/data-destroyer.png',
@@ -62,7 +62,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['C++', 'Qt'],
             description: "Native GUI wrapper for GNU coreutils tool 'dd'",
-            categories: ['native']
+            categories: ['category1']
         },
         {
             image: 'assets/images/raspberry-pi-monitor.png',
@@ -71,7 +71,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['python', 'flask'],
             description: "Web based status monitor/smart mirror, displays system stats, weather and more.",
-            categories: ['webdev', 'diy']
+            categories: ['category1', 'category2']
         },
         {
             image: 'assets/images/s3scan.png',
@@ -80,7 +80,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['python'],
             description: "Automate crawling of a website and find publicly open S3 buckets for takeover.",
-            categories: ['native', 'security']
+            categories: ['category1', 'category2']
         },
         {
             image: 'assets/images/elementary.png',
@@ -89,7 +89,7 @@ let render_projects = (slug) => {
             demo: 'https://elementary-jekyll.github.io/',
             technologies: ['Jekyll', 'CSS3'],
             description: "Elementary is a zero Javascript and minimal CSS ultra lightweight Jekyll theme for those of you who love simplicity.",
-            categories: ['webdev']
+            categories: ['category1']
         },
         {
             image: 'assets/images/soot-spirits.png',
@@ -98,7 +98,7 @@ let render_projects = (slug) => {
             demo: 'https://sootspirits.github.io',
             technologies: ['Jekyll', 'CSS3'],
             description: "A simple responsive two column Jekyll theme. Great for personal blog and basic portfolio website.",
-            categories: ['webdev']
+            categories: ['category1']
         },
         {
             image: 'assets/images/python-chat.png',
@@ -107,7 +107,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Python', 'Sockets'],
             description: "Simple terminal group chat based on native sockets using Python.",
-            categories: ['native']
+            categories: ['category1']
         },
         {
             image: 'assets/images/old-lcd.jpg',
@@ -116,7 +116,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['DIY'],
             description: "Reusing a dead laptop's LCD panel as a secondary monitor.",
-            categories: ['diy']
+            categories: ['category1']
         },
         {
             image: 'assets/images/nextcloud-enc.png',
@@ -125,7 +125,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['NextCloud', 'GnuPG'],
             description: "Self hosted encrypted cloud setup with Nextcloud and GnuPG.",
-            categories: ['diy', 'security']
+            categories: ['category1', 'category2']
         },
         {
             image: 'assets/images/google-cloud-backup.png',
@@ -134,7 +134,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['NextCloud', 'Duplicity'],
             description: "Create automated encrypted incremental backups of data. Sync everything securely to Google Cloud.",
-            categories: ['diy', 'security']
+            categories: ['category1', 'category2']
         },
         {
             image: 'assets/images/pi-cloud.jpg',
@@ -143,7 +143,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['FTP', 'DIY'],
             description: "Host a local cloud server with a Raspberry Pi and a spare hard disk. Access data instantaneously on any device on the network.",
-            categories: ['diy']
+            categories: ['category1']
         },
         {
             image: 'assets/images/koalamate.png',
@@ -152,7 +152,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Electron', 'Javascript'],
             description: "A cross-platform desktop application that serves as a Wolfram Alpha query place and notes taker.",
-            categories: ['native']
+            categories: ['category1']
         },
     ]
 
