@@ -7,12 +7,12 @@ markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
+github_username: placeholder
 blog_url: https://jan.groeschel.com.au/
 email: jan[at]groeschel.com.au
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+keybase_username: placeholder
+twitter_username: placeholder
+reddit_username: placeholder
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg

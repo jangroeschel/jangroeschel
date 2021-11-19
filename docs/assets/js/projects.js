@@ -16,7 +16,7 @@ let render_projects = (slug) => {
             title: 'Project 1',
             demo: 'https://mporter.co',
             technologies: ['subcategory1', 'subcategory2', 'subcategory3'],
-            description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo, diam sit amet euismod tristique, sem turpis scelerisque arcu, in.",
             categories: ['featured', 'category1']
         },
         {
@@ -25,7 +25,7 @@ let render_projects = (slug) => {
             title: 'Project 2',
             demo: 'http://wall-e-jekyll.github.io/',
             technologies: ['subcategory1', 'subcategory2'],
-            description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo, diam sit amet euismod tristique, sem turpis scelerisque arcu, in.",
             categories: ['featured', 'category2']
         },
         {
@@ -34,7 +34,7 @@ let render_projects = (slug) => {
             title: 'Project 3',
             demo: false,
             technologies: ['subcategory1', 'subcategory2'],
-            description: "Attendance marking tool that uses face recognition for marking attendance and firebase for tracking and analytics.",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo, diam sit amet euismod tristique, sem turpis scelerisque arcu, in.",
             categories: ['featured', 'category3']
         },
         {
@@ -43,7 +43,7 @@ let render_projects = (slug) => {
             title: 'Project 4',
             demo: 'https://www.nagekar.com/mpw',
             technologies: ['subcategory1', 'subcategory2'],
-            description: "Master Password is an ingenious password solution that makes your passwords truly impossible to lose.",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo, diam sit amet euismod tristique, sem turpis scelerisque arcu, in.",
             categories: ['featured', 'category4']
         },
         {
@@ -52,7 +52,7 @@ let render_projects = (slug) => {
             title: 'Project 5',
             demo: false,
             technologies: ['subcategory1'],
-            description: "Ever wondered how many times a URL has been shared on popular social networks?",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo, diam sit amet euismod tristique, sem turpis scelerisque arcu, in.",
             categories: ['category1']
         },
         {
@@ -61,7 +61,7 @@ let render_projects = (slug) => {
             title: 'Project 6',
             demo: false,
             technologies: ['subcategory1', 'subcategory2'],
-            description: "Native GUI wrapper for GNU coreutils tool 'dd'",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo, diam sit amet euismod tristique, sem turpis scelerisque arcu, in.",
             categories: ['category1']
         },
         {
@@ -70,7 +70,7 @@ let render_projects = (slug) => {
             title: 'Project 7',
             demo: false,
             technologies: ['subcategory1', 'subcategory2'],
-            description: "Web based status monitor/smart mirror, displays system stats, weather and more.",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo, diam sit amet euismod tristique, sem turpis scelerisque arcu, in.",
             categories: ['category1', 'category2']
         },
         {
@@ -79,7 +79,7 @@ let render_projects = (slug) => {
             title: 'Project 8',
             demo: false,
             technologies: ['subcategory1'],
-            description: "Automate crawling of a website and find publicly open S3 buckets for takeover.",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo, diam sit amet euismod tristique, sem turpis scelerisque arcu, in.",
             categories: ['category1', 'category2']
         },
         {
@@ -88,7 +88,7 @@ let render_projects = (slug) => {
             title: 'Project 9',
             demo: 'https://elementary-jekyll.github.io/',
             technologies: ['subcategory1', 'subcategory2'],
-            description: "Elementary is a zero Javascript and minimal CSS ultra lightweight Jekyll theme for those of you who love simplicity.",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo, diam sit amet euismod tristique, sem turpis scelerisque arcu, in.",
             categories: ['category1']
         },
         {
@@ -97,7 +97,7 @@ let render_projects = (slug) => {
             title: 'Project 10',
             demo: 'https://sootspirits.github.io',
             technologies: ['subcategory1', 'subcategory2'],
-            description: "A simple responsive two column Jekyll theme. Great for personal blog and basic portfolio website.",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo, diam sit amet euismod tristique, sem turpis scelerisque arcu, in.",
             categories: ['category1']
         },
         {
@@ -106,7 +106,7 @@ let render_projects = (slug) => {
             title: 'Project 11',
             demo: false,
             technologies: ['subcategory1', 'subcategory2'],
-            description: "Simple terminal group chat based on native sockets using Python.",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo, diam sit amet euismod tristique, sem turpis scelerisque arcu, in.",
             categories: ['category1']
         },
         {
@@ -115,7 +115,7 @@ let render_projects = (slug) => {
             title: 'Project 12',
             demo: false,
             technologies: ['subcategory1'],
-            description: "Reusing a dead laptop's LCD panel as a secondary monitor.",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo, diam sit amet euismod tristique, sem turpis scelerisque arcu, in.",
             categories: ['category1']
         },
         {
@@ -124,7 +124,7 @@ let render_projects = (slug) => {
             title: 'Project 13',
             demo: false,
             technologies: ['subcategory1', 'subcategory2'],
-            description: "Self hosted encrypted cloud setup with Nextcloud and GnuPG.",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo, diam sit amet euismod tristique, sem turpis scelerisque arcu, in.",
             categories: ['category1', 'category2']
         },
         {
@@ -133,7 +133,7 @@ let render_projects = (slug) => {
             title: 'Project 14',
             demo: false,
             technologies: ['subcategory1', 'subcategory2'],
-            description: "Create automated encrypted incremental backups of data. Sync everything securely to Google Cloud.",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo, diam sit amet euismod tristique, sem turpis scelerisque arcu, in.",
             categories: ['category1', 'category2']
         },
         {
@@ -142,7 +142,7 @@ let render_projects = (slug) => {
             title: 'Project 15',
             demo: false,
             technologies: ['subcategory1', 'subcategory2'],
-            description: "Host a local cloud server with a Raspberry Pi and a spare hard disk. Access data instantaneously on any device on the network.",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo, diam sit amet euismod tristique, sem turpis scelerisque arcu, in.",
             categories: ['category1']
         },
         {
@@ -151,7 +151,7 @@ let render_projects = (slug) => {
             title: 'Project 16',
             demo: false,
             technologies: ['subcategory1', 'subcategory2'],
-            description: "A cross-platform desktop application that serves as a Wolfram Alpha query place and notes taker.",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo, diam sit amet euismod tristique, sem turpis scelerisque arcu, in.",
             categories: ['category1']
         },
     ]
