@@ -28,19 +28,19 @@ function blog_posts() {
         },
         {
             url: 'https://www.linkedin.com/in/jangroeschel/',
-            title: 'Placeholder authorship description 1',
+            title: 'Placeholder authorship description 2',
         },
         {
             url: 'https://www.linkedin.com/in/jangroeschel/',
-            title: 'Placeholder authorship description 1',
+            title: 'Placeholder authorship description 3',
         },
         {
             url: 'https://www.linkedin.com/in/jangroeschel/',
-            title: 'Placeholder authorship description 1',
+            title: 'Placeholder authorship description 4',
         },
         {
             url: 'https://www.linkedin.com/in/jangroeschel/',
-            title: 'Placeholder authorship description 1',
+            title: 'Placeholder authorship description 5',
         },
     ];
 
