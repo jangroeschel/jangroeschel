@@ -12,7 +12,7 @@ let render_projects = (slug) => {
     let projects_obj = [
         {
             image: 'assets/images/mentors.jpg',
-            link: 'https://github.com/abhn/Mporter',
+            link: 'https://www.linkedin.com/in/jangroeschel/',
             title: 'Mporter',
             demo: 'https://mporter.co',
             technologies: ['Flask', 'Celery', 'Python'],
@@ -21,7 +21,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/mobile-landscape.jpg',
-            link: 'https://github.com/abhn/Wall-E',
+            link: 'https://www.linkedin.com/in/jangroeschel/',
             title: 'Wall-E',
             demo: 'http://wall-e-jekyll.github.io/',
             technologies: ['Semantic UI', 'Jekyll'],
@@ -30,7 +30,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/collage.jpg',
-            link: 'https://github.com/abhn/Marvel',
+            link: 'https://www.linkedin.com/in/jangroeschel/',
             title: 'Marvel',
             demo: false,
             technologies: ['Android', 'OpenCV'],
@@ -39,7 +39,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/mpw.jpg',
-            link: 'https://github.com/abhn/mpw',
+            link: 'https://www.linkedin.com/in/jangroeschel/',
             title: 'Master Password',
             demo: 'https://www.nagekar.com/mpw',
             technologies: ['Semantic UI', 'CSS3'],
@@ -48,7 +48,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/social-share-count.jpeg',
-            link: 'https://github.com/abhn/Social-Share-Counts',
+            link: 'https://www.linkedin.com/in/jangroeschel/',
             title: 'Social Share Count',
             demo: false,
             technologies: ['Python'],
@@ -57,7 +57,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/data-destroyer.png',
-            link: 'https://github.com/abhn/data-destroyer-gui',
+            link: 'https://www.linkedin.com/in/jangroeschel/',
             title: 'Data Destroyer',
             demo: false,
             technologies: ['C++', 'Qt'],
@@ -66,7 +66,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/raspberry-pi-monitor.png',
-            link: 'https://github.com/abhn/RPi-Status-Monitor',
+            link: 'https://www.linkedin.com/in/jangroeschel/',
             title: 'Raspberry Pi Monitor',
             demo: false,
             technologies: ['python', 'flask'],
@@ -75,7 +75,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/s3scan.png',
-            link: 'https://github.com/abhn/S3Scan',
+            link: 'https://www.linkedin.com/in/jangroeschel/',
             title: 'S3Scan',
             demo: false,
             technologies: ['python'],
@@ -84,7 +84,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/elementary.png',
-            link: 'https://github.com/abhn/Elementary',
+            link: 'https://www.linkedin.com/in/jangroeschel/',
             title: 'Elementary',
             demo: 'https://elementary-jekyll.github.io/',
             technologies: ['Jekyll', 'CSS3'],
@@ -93,7 +93,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/soot-spirits.png',
-            link: 'https://github.com/abhn/Soot-Spirits',
+            link: 'https://www.linkedin.com/in/jangroeschel/',
             title: 'Soot Spirits',
             demo: 'https://sootspirits.github.io',
             technologies: ['Jekyll', 'CSS3'],
@@ -102,7 +102,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/python-chat.png',
-            link: 'https://www.nagekar.com/2014/12/lan-group-messenger-in-python.html',
+            link: 'https://www.linkedin.com/in/jangroeschel/',
             title: 'Terminal Group Chat',
             demo: false,
             technologies: ['Python', 'Sockets'],
@@ -111,7 +111,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/old-lcd.jpg',
-            link: 'https://www.nagekar.com/2018/05/reusing-old-laptop-lcd-panel.html',
+            link: 'https://www.linkedin.com/in/jangroeschel/',
             title: 'Reusing Old LCD Panel',
             demo: false,
             technologies: ['DIY'],
@@ -120,7 +120,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/nextcloud-enc.png',
-            link: 'https://www.nagekar.com/2017/08/private-cloud-part-2.html',
+            link: 'https://www.linkedin.com/in/jangroeschel/',
             title: 'Encrypted Self-Hosted Cloud',
             demo: false,
             technologies: ['NextCloud', 'GnuPG'],
@@ -129,7 +129,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/google-cloud-backup.png',
-            link: 'https://www.nagekar.com/2018/05/encrypted-backup-with-duplicity.html',
+            link: 'https://www.linkedin.com/in/jangroeschel/',
             title: 'Encrypted Backups - Google Cloud',
             demo: false,
             technologies: ['NextCloud', 'Duplicity'],
@@ -138,7 +138,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/pi-cloud.jpg',
-            link: 'https://www.nagekar.com/2016/01/how-to-private-local-cloud-using-raspberrypi.html',
+            link: 'https://www.linkedin.com/in/jangroeschel/',
             title: 'Local Cloud - Raspberry Pi',
             demo: false,
             technologies: ['FTP', 'DIY'],
@@ -147,7 +147,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/koalamate.png',
-            link: 'https://github.com/abhn/koalamate',
+            link: 'https://www.linkedin.com/in/jangroeschel/',
             title: 'Koalamate',
             demo: false,
             technologies: ['Electron', 'Javascript'],
