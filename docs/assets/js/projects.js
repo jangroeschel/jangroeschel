@@ -14,7 +14,7 @@ let render_projects = (slug) => {
             image: 'assets/images/mentors.jpg',
             link: 'https://www.linkedin.com/in/jangroeschel/',
             title: 'Project 1',
-            demo: 'https://mporter.co',
+            demo: false,
             technologies: ['subcategory1', 'subcategory2', 'subcategory3'],
             description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo, diam sit amet euismod tristique, sem turpis scelerisque arcu, in.",
             categories: ['featured', 'category1']
@@ -23,7 +23,7 @@ let render_projects = (slug) => {
             image: 'assets/images/mobile-landscape.jpg',
             link: 'https://www.linkedin.com/in/jangroeschel/',
             title: 'Project 2',
-            demo: 'http://wall-e-jekyll.github.io/',
+            demo: false,
             technologies: ['subcategory1', 'subcategory2'],
             description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo, diam sit amet euismod tristique, sem turpis scelerisque arcu, in.",
             categories: ['featured', 'category2']
@@ -41,7 +41,7 @@ let render_projects = (slug) => {
             image: 'assets/images/mpw.jpg',
             link: 'https://www.linkedin.com/in/jangroeschel/',
             title: 'Project 4',
-            demo: 'https://www.nagekar.com/mpw',
+            demo: false,
             technologies: ['subcategory1', 'subcategory2'],
             description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo, diam sit amet euismod tristique, sem turpis scelerisque arcu, in.",
             categories: ['featured', 'category4']
@@ -86,7 +86,7 @@ let render_projects = (slug) => {
             image: 'assets/images/elementary.png',
             link: 'https://www.linkedin.com/in/jangroeschel/',
             title: 'Project 9',
-            demo: 'https://elementary-jekyll.github.io/',
+            demo: false,
             technologies: ['subcategory1', 'subcategory2'],
             description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo, diam sit amet euismod tristique, sem turpis scelerisque arcu, in.",
             categories: ['category1']
@@ -95,7 +95,7 @@ let render_projects = (slug) => {
             image: 'assets/images/soot-spirits.png',
             link: 'https://www.linkedin.com/in/jangroeschel/',
             title: 'Project 10',
-            demo: 'https://sootspirits.github.io',
+            demo: false,
             technologies: ['subcategory1', 'subcategory2'],
             description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo, diam sit amet euismod tristique, sem turpis scelerisque arcu, in.",
             categories: ['category1']
